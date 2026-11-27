@@ -1,0 +1,18 @@
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+out/
+
+# 本地数据与密钥
+.env
+.env.*
+*.db
+*.db-shm
+*.db-wal
+
+# 系统与编辑器
+.DS_Store
+*.log
+.idea/
+.vscode/
